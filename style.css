@@ -3,13 +3,21 @@ body, html {
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-ul { list-style: none; padding-left: 5px; }
-a { color:blue; text-decoration: none;}
+ul { 
+    list-style: none; padding-left: 5px; 
+}
+
+a { 
+    color: red; text-decoration: none;
+}
+
 .bar {
     background-color: #f9f9fb;
     padding:15px;
     border-top: solid 1px #cdcdcd;
     border-bottom: solid 1px #cdcdcd;
+    text-align: center;
+    color: #530201;
 }
 .content {
     max-width: 1440px;
@@ -22,7 +30,7 @@ a { color:blue; text-decoration: none;}
     padding-left: 1rem;
     padding-right: 1rem;
 }
-.footer {
+footer {
     min-height: 100px;
     border-top: solid 1px #cdcdcd;
 }
@@ -30,9 +38,22 @@ a { color:blue; text-decoration: none;}
     border-left: solid 1px #cdcdcd;
     padding-left: 15px;
 }
-.sidebar {
+nav {
     border-right: solid 1px #cdcdcd;
 }
-figure {
+.logo {
+    text-align: center;
+    background-color: #530201;
+}
+main > h2{
+    text-align: center;
+}
+main > p{
+    text-align: justify;
+}
+main > ul{
+    list-style-type: disc;
+}
+footer{
     text-align: center;
 }
