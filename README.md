@@ -1,19 +1,16 @@
-# Módulo 3 - Trilha HTML
+# Homem aranha - Wikipedia 
+## Com grandes poderes, temos grandes responsabilidades!
+Neste sistema eu desenvolvi um site, com ajuda da formação de HTML da plataforma DIO, com o professor Diego, desenvolvi um site semelhante ao Wikipedia, para falar sobre o homem aranha, meu herói favorito.
+No código, usei tags como:
+- Div e tags semânticas como Nav e footer;
+- A para as âncoras;
+- Img para as imagens do blog;
+- ul e li para as listas
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+## Feedback
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+Me mande sua opinião sobre este site neste meio:
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+- [Linkedin](https://www.linkedin.com/in/gustavodasilvapires/)
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
-
-
+Ou por comentários no github, Muito obrigado pela atenção!
